@@ -1,0 +1,18 @@
+# some information about you
+name: "Karya Suta"
+nickname: "Suta"
+image: "images/suta.jpg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "karyasuta@gmail.com"
+  phone: "+0123456789"
+
+# a summary of what you do
+summary:
+- I am a Data Analyst
+- I work with Python, SQL, Tableau
+- I love to work with some fun projects
