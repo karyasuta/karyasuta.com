@@ -17,6 +17,9 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Enable global emoji support
 enableEmoji: true
@@ -28,9 +31,9 @@ params:
   gitRepo: https://github.com/karyasuta/karyasuta.com
 
   # customMenus:
-    # - name: Blog
-      # url: https://hossainemruz.gitbook.io/notes/
-      # hideFromNavbar: true
+    # - name: Link
+      # url: "/link"
+      # hideFromNavbar: false
       # showOnFooter: true
   darkMode:
     enable: true
