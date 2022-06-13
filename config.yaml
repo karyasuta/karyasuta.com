@@ -28,11 +28,14 @@ params:
   gitRepo: https://github.com/karyasuta/karyasuta.com
 
   # customMenus:
-    # - name: Notes
+    # - name: Blog
       # url: https://hossainemruz.gitbook.io/notes/
       # hideFromNavbar: true
       # showOnFooter: true
-
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system # value: 'system', 'light' or 'dark'
   logo:
     # main: images/main-logo.png
     # inverted: images/inverted-logo.png
